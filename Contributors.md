@@ -3149,4 +3149,5 @@
 - [cris yi](https://github.com/Crisyix)
 - [Vani Singh](https://github.com/vanisingh-24)
 - [shiker1996](https://github.com/shiker1996)
+- [Fahad Ashiq](https://github.com/fahadashiq12)
 <!-- prettier-ignore-end -->
